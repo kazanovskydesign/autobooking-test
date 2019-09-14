@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/autobooking-test/static/css/main.553fff54.chunk.css",
+    "main.js": "/autobooking-test/static/js/main.bf0bed04.chunk.js",
+    "main.js.map": "/autobooking-test/static/js/main.bf0bed04.chunk.js.map",
+    "runtime~main.js": "/autobooking-test/static/js/runtime~main.20305214.js",
+    "runtime~main.js.map": "/autobooking-test/static/js/runtime~main.20305214.js.map",
+    "static/js/2.b50c6b88.chunk.js": "/autobooking-test/static/js/2.b50c6b88.chunk.js",
+    "static/js/2.b50c6b88.chunk.js.map": "/autobooking-test/static/js/2.b50c6b88.chunk.js.map",
+    "index.html": "/autobooking-test/index.html",
+    "precache-manifest.a1e9a83d2fd71f70cb513e2c7760a2e5.js": "/autobooking-test/precache-manifest.a1e9a83d2fd71f70cb513e2c7760a2e5.js",
+    "service-worker.js": "/autobooking-test/service-worker.js",
+    "static/css/main.553fff54.chunk.css.map": "/autobooking-test/static/css/main.553fff54.chunk.css.map"
+  }
+}
